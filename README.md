@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="laptop logo.webp" width="180">
+  <img src="laptop%20logo.webp" width="180">
 </p>
 
 <h1 align="center">💻 Power BI Laptop Sales Dashboard</h1>
@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-This Power BI dashboard provides a comprehensive analysis of laptop sales performance using interactive visualizations and KPI tracking. The dashboard helps stakeholders understand sales trends, product performance, and business growth through data-driven insights.
+This Power BI dashboard provides a comprehensive analysis of laptop sales performance using interactive visualizations and KPI tracking. The dashboard helps stakeholders understand sales trends, performance metrics, and business opportunities.
 
 ---
 
